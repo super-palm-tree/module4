@@ -1,0 +1,37 @@
+body {
+max-width: 60em;
+margin: 0 auto 0 auto;
+background: #E5DAB2 url("../images/eye.png") no-repeat right top;
+}
+
+table, th, td {
+border-collapse: collapse;
+border: 1px solid #000;
+padding: 1em;
+}
+
+header p {
+font-size: 16px;
+}
+
+h1 {
+font-size: 36px;
+}
+
+h2 {
+font-size: 24px;
+}
+
+#readinglinks {
+/* this ID is used for the reading links section on the home page */
+background: #9BCFE5;
+border: 2px solid #21617C;
+padding: 1em;
+}
+
+.writtenwork { 
+/* this class is currently used for the readings on the subpages, but could be used on the main page as well if a short reading is added */
+background: #B99DE6 url("../images/paper.png") repeat;
+border: 2px solid #7B6517;
+padding: 1em;
+}
