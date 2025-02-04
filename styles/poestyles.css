@@ -2,6 +2,7 @@ body {
 max-width: 60em;
 margin: 0 auto 0 auto;
 background: #E5DAB2 url("../images/eye.png") no-repeat right top;
+font-family: Garamond, serif;
 }
 
 table, th, td {
@@ -10,8 +11,12 @@ border: 1px solid #000;
 padding: 1em;
 }
 
+p {
+font-size: 18px;
+}
+
 header p {
-font-size: 16px;
+font: 24px Arial, sans-serif;
 }
 
 h1 {
